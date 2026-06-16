@@ -1,2 +1,2 @@
 # devops-learning-journal
-Learning Git and GitHub for DevOps
+echo "Day 1: learning Git basics"
